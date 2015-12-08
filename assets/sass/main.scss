@@ -226,6 +226,15 @@
 			top: 0.25em;
 		}
 
+        &.left,
+		&.right {
+			max-width: 40%;
+
+			img {
+				width: 100%;
+			}
+		}
+
 		&.centered {
 			display: block;
 			margin: 0 0 2em 0;
