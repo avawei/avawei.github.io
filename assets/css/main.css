@@ -1971,16 +1971,6 @@
 			top: 0.25em;
 		}
 
-		.image.left, .image.right {
-			max-width: 40%;
-		}
-
-			.image.left img, .image.right img {
-				width: 180px;
-				height: 180px;
-			}
-
-
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
